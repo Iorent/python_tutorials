@@ -1,0 +1,627 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="Band_10">Resize (Band 12:M3G20090205T074030_V01_RFL.IMG) (810.330017)</MDI>
+    <MDI key="Band_11">Resize (Band 13:M3G20090205T074030_V01_RFL.IMG) (830.289978)</MDI>
+    <MDI key="Band_12">Resize (Band 14:M3G20090205T074030_V01_RFL.IMG) (850.250000)</MDI>
+    <MDI key="Band_13">Resize (Band 15:M3G20090205T074030_V01_RFL.IMG) (870.210022)</MDI>
+    <MDI key="Band_14">Resize (Band 16:M3G20090205T074030_V01_RFL.IMG) (890.169983)</MDI>
+    <MDI key="Band_15">Resize (Band 17:M3G20090205T074030_V01_RFL.IMG) (910.140015)</MDI>
+    <MDI key="Band_16">Resize (Band 18:M3G20090205T074030_V01_RFL.IMG) (930.099976)</MDI>
+    <MDI key="Band_17">Resize (Band 19:M3G20090205T074030_V01_RFL.IMG) (950.059998)</MDI>
+    <MDI key="Band_18">Resize (Band 20:M3G20090205T074030_V01_RFL.IMG) (970.020020)</MDI>
+    <MDI key="Band_19">Resize (Band 21:M3G20090205T074030_V01_RFL.IMG) (989.979980)</MDI>
+    <MDI key="Band_1">Resize (Band 3:M3G20090205T074030_V01_RFL.IMG) (540.840027)</MDI>
+    <MDI key="Band_20">Resize (Band 22:M3G20090205T074030_V01_RFL.IMG) (1009.950012)</MDI>
+    <MDI key="Band_21">Resize (Band 23:M3G20090205T074030_V01_RFL.IMG) (1029.910034)</MDI>
+    <MDI key="Band_22">Resize (Band 24:M3G20090205T074030_V01_RFL.IMG) (1049.869995)</MDI>
+    <MDI key="Band_23">Resize (Band 25:M3G20090205T074030_V01_RFL.IMG) (1069.829956)</MDI>
+    <MDI key="Band_24">Resize (Band 26:M3G20090205T074030_V01_RFL.IMG) (1089.790039)</MDI>
+    <MDI key="Band_25">Resize (Band 27:M3G20090205T074030_V01_RFL.IMG) (1109.760010)</MDI>
+    <MDI key="Band_26">Resize (Band 28:M3G20090205T074030_V01_RFL.IMG) (1129.719971)</MDI>
+    <MDI key="Band_27">Resize (Band 29:M3G20090205T074030_V01_RFL.IMG) (1149.680054)</MDI>
+    <MDI key="Band_28">Resize (Band 30:M3G20090205T074030_V01_RFL.IMG) (1169.640015)</MDI>
+    <MDI key="Band_29">Resize (Band 31:M3G20090205T074030_V01_RFL.IMG) (1189.599976)</MDI>
+    <MDI key="Band_2">Resize (Band 4:M3G20090205T074030_V01_RFL.IMG) (580.760010)</MDI>
+    <MDI key="Band_30">Resize (Band 32:M3G20090205T074030_V01_RFL.IMG) (1209.569946)</MDI>
+    <MDI key="Band_31">Resize (Band 33:M3G20090205T074030_V01_RFL.IMG) (1229.530029)</MDI>
+    <MDI key="Band_32">Resize (Band 34:M3G20090205T074030_V01_RFL.IMG) (1249.489990)</MDI>
+    <MDI key="Band_33">Resize (Band 35:M3G20090205T074030_V01_RFL.IMG) (1269.449951)</MDI>
+    <MDI key="Band_34">Resize (Band 36:M3G20090205T074030_V01_RFL.IMG) (1289.410034)</MDI>
+    <MDI key="Band_35">Resize (Band 37:M3G20090205T074030_V01_RFL.IMG) (1309.380005)</MDI>
+    <MDI key="Band_36">Resize (Band 38:M3G20090205T074030_V01_RFL.IMG) (1329.339966)</MDI>
+    <MDI key="Band_37">Resize (Band 39:M3G20090205T074030_V01_RFL.IMG) (1349.300049)</MDI>
+    <MDI key="Band_38">Resize (Band 40:M3G20090205T074030_V01_RFL.IMG) (1369.260010)</MDI>
+    <MDI key="Band_39">Resize (Band 41:M3G20090205T074030_V01_RFL.IMG) (1389.219971)</MDI>
+    <MDI key="Band_3">Resize (Band 5:M3G20090205T074030_V01_RFL.IMG) (620.690002)</MDI>
+    <MDI key="Band_40">Resize (Band 42:M3G20090205T074030_V01_RFL.IMG) (1409.189941)</MDI>
+    <MDI key="Band_41">Resize (Band 43:M3G20090205T074030_V01_RFL.IMG) (1429.150024)</MDI>
+    <MDI key="Band_42">Resize (Band 44:M3G20090205T074030_V01_RFL.IMG) (1449.109985)</MDI>
+    <MDI key="Band_43">Resize (Band 45:M3G20090205T074030_V01_RFL.IMG) (1469.069946)</MDI>
+    <MDI key="Band_44">Resize (Band 46:M3G20090205T074030_V01_RFL.IMG) (1489.030029)</MDI>
+    <MDI key="Band_45">Resize (Band 47:M3G20090205T074030_V01_RFL.IMG) (1508.989990)</MDI>
+    <MDI key="Band_46">Resize (Band 48:M3G20090205T074030_V01_RFL.IMG) (1528.959961)</MDI>
+    <MDI key="Band_47">Resize (Band 49:M3G20090205T074030_V01_RFL.IMG) (1548.920044)</MDI>
+    <MDI key="Band_48">Resize (Band 50:M3G20090205T074030_V01_RFL.IMG) (1578.859985)</MDI>
+    <MDI key="Band_49">Resize (Band 51:M3G20090205T074030_V01_RFL.IMG) (1618.790039)</MDI>
+    <MDI key="Band_4">Resize (Band 6:M3G20090205T074030_V01_RFL.IMG) (660.609985)</MDI>
+    <MDI key="Band_50">Resize (Band 52:M3G20090205T074030_V01_RFL.IMG) (1658.709961)</MDI>
+    <MDI key="Band_51">Resize (Band 53:M3G20090205T074030_V01_RFL.IMG) (1698.630005)</MDI>
+    <MDI key="Band_52">Resize (Band 54:M3G20090205T074030_V01_RFL.IMG) (1738.560059)</MDI>
+    <MDI key="Band_53">Resize (Band 55:M3G20090205T074030_V01_RFL.IMG) (1778.479980)</MDI>
+    <MDI key="Band_54">Resize (Band 56:M3G20090205T074030_V01_RFL.IMG) (1818.400024)</MDI>
+    <MDI key="Band_55">Resize (Band 57:M3G20090205T074030_V01_RFL.IMG) (1858.329956)</MDI>
+    <MDI key="Band_56">Resize (Band 58:M3G20090205T074030_V01_RFL.IMG) (1898.250000)</MDI>
+    <MDI key="Band_57">Resize (Band 59:M3G20090205T074030_V01_RFL.IMG) (1938.180054)</MDI>
+    <MDI key="Band_58">Resize (Band 60:M3G20090205T074030_V01_RFL.IMG) (1978.099976)</MDI>
+    <MDI key="Band_59">Resize (Band 61:M3G20090205T074030_V01_RFL.IMG) (2018.020020)</MDI>
+    <MDI key="Band_5">Resize (Band 7:M3G20090205T074030_V01_RFL.IMG) (700.539978)</MDI>
+    <MDI key="Band_60">Resize (Band 62:M3G20090205T074030_V01_RFL.IMG) (2057.949951)</MDI>
+    <MDI key="Band_61">Resize (Band 63:M3G20090205T074030_V01_RFL.IMG) (2097.870117)</MDI>
+    <MDI key="Band_62">Resize (Band 64:M3G20090205T074030_V01_RFL.IMG) (2137.800049)</MDI>
+    <MDI key="Band_63">Resize (Band 65:M3G20090205T074030_V01_RFL.IMG) (2177.719971)</MDI>
+    <MDI key="Band_64">Resize (Band 66:M3G20090205T074030_V01_RFL.IMG) (2217.639893)</MDI>
+    <MDI key="Band_65">Resize (Band 67:M3G20090205T074030_V01_RFL.IMG) (2257.570068)</MDI>
+    <MDI key="Band_66">Resize (Band 68:M3G20090205T074030_V01_RFL.IMG) (2297.489990)</MDI>
+    <MDI key="Band_67">Resize (Band 69:M3G20090205T074030_V01_RFL.IMG) (2337.419922)</MDI>
+    <MDI key="Band_68">Resize (Band 70:M3G20090205T074030_V01_RFL.IMG) (2377.340088)</MDI>
+    <MDI key="Band_69">Resize (Band 71:M3G20090205T074030_V01_RFL.IMG) (2417.260010)</MDI>
+    <MDI key="Band_6">Resize (Band 8:M3G20090205T074030_V01_RFL.IMG) (730.479980)</MDI>
+    <MDI key="Band_70">Resize (Band 72:M3G20090205T074030_V01_RFL.IMG) (2457.189941)</MDI>
+    <MDI key="Band_71">Resize (Band 73:M3G20090205T074030_V01_RFL.IMG) (2497.110107)</MDI>
+    <MDI key="Band_72">Resize (Band 74:M3G20090205T074030_V01_RFL.IMG) (2537.030029)</MDI>
+    <MDI key="Band_73">Resize (Band 75:M3G20090205T074030_V01_RFL.IMG) (2576.959961)</MDI>
+    <MDI key="Band_74">Resize (Band 76:M3G20090205T074030_V01_RFL.IMG) (2616.879883)</MDI>
+    <MDI key="Band_75">Resize (Band 77:M3G20090205T074030_V01_RFL.IMG) (2656.810059)</MDI>
+    <MDI key="Band_76">Resize (Band 78:M3G20090205T074030_V01_RFL.IMG) (2696.729980)</MDI>
+    <MDI key="Band_77">Resize (Band 79:M3G20090205T074030_V01_RFL.IMG) (2736.649902)</MDI>
+    <MDI key="Band_78">Resize (Band 80:M3G20090205T074030_V01_RFL.IMG) (2776.580078)</MDI>
+    <MDI key="Band_79">Resize (Band 81:M3G20090205T074030_V01_RFL.IMG) (2816.500000)</MDI>
+    <MDI key="Band_7">Resize (Band 9:M3G20090205T074030_V01_RFL.IMG) (750.440002)</MDI>
+    <MDI key="Band_80">Resize (Band 82:M3G20090205T074030_V01_RFL.IMG) (2856.429932)</MDI>
+    <MDI key="Band_81">Resize (Band 83:M3G20090205T074030_V01_RFL.IMG) (2896.350098)</MDI>
+    <MDI key="Band_82">Resize (Band 84:M3G20090205T074030_V01_RFL.IMG) (2936.270020)</MDI>
+    <MDI key="Band_83">Resize (Band 85:M3G20090205T074030_V01_RFL.IMG) (2976.199951)</MDI>
+    <MDI key="Band_8">Resize (Band 10:M3G20090205T074030_V01_RFL.IMG) (770.400024)</MDI>
+    <MDI key="Band_9">Resize (Band 11:M3G20090205T074030_V01_RFL.IMG) (790.369995)</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Resize (Band 3:M3G20090205T074030_V01_RFL.IMG) (540.840027)</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0.01989450045954436</HistMin>
+        <HistMax>0.148144275684841</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|1|1|0|0|0|1|1|1|0|2|0|2|0|0|1|0|0|1|0|2|1|1|2|1|0|3|2|3|2|2|2|4|1|0|1|3|3|4|3|2|5|2|4|5|3|1|6|4|7|8|5|4|6|5|5|12|5|8|6|11|4|9|7|7|11|12|9|13|13|14|14|15|12|16|17|15|12|12|13|11|12|14|16|18|19|21|11|25|27|20|17|14|24|16|22|25|37|26|22|17|19|22|25|26|19|24|23|20|21|30|29|35|26|28|29|37|32|30|40|31|25|22|26|34|32|38|27|29|34|47|29|45|25|28|35|46|25|39|36|31|39|40|32|35|32|24|34|25|35|28|35|33|22|39|27|34|27|37|26|31|35|30|26|32|34|27|18|37|39|35|31|33|31|37|27|27|38|30|41|36|44|41|44|35|45|47|38|32|36|38|41|32|46|57|43|30|50|56|51|39|52|50|52|47|44|57|55|37|42|46|43|48|46|58|58|59|40|52|43|51|60|44|43|67|47|44|68|53|61|57|53|67|50|61|50|68|61|51|33|48|51|70|52|55|61|57|59|55|61|57|63|50|50|57|69|67|47|48|57|52|57|66|49|47|57|61|70|63|54|52|61|61|66|55|58|53|88|67|62|49|66|52|63|55|59|68|60|58|49|69|58|67|67|62|77|60|71|62|67|59|54|62|66|52|67|59|72|74|77|59|72|70|82|63|92|64|80|62|58|69|72|64|71|74|93|69|70|70|75|92|86|69|82|81|68|84|77|64|67|76|88|88|69|65|76|80|78|79|65|86|102|74|69|86|70|91|84|90|82|83|103|91|83|84|84|85|94|73|70|75|88|100|88|92|92|87|74|98|91|72|79|70|78|94|58|79|74|89|72|81|84|77|103|77|83|76|84|68|85|69|84|76|100|62|65|86|74|97|62|73|84|88|80|85|67|58|68|64|78|66|57|71|61|70|77|77|57|62|84|61|69|56|60|69|63|66|57|54|49|55|62|61|59|51|53|69|59|58|58|67|49|60|68|56|46|56|52|52|53|42|63|47|53|49|52|52|48|56|52|52|38|38|52|54|48|52|42|45|45|43|60|38|39|41|51|43|43|26|23|30|34|24|44|42|38|40|30|34|33|43|37|52|33|35|36|34|38|24|34|31|31|34|38|37|38|35|32|38|32|32|30|33|39|28|27|30|37|42|27|33|30|28|33|25|24|29|30|35|17|23|21|19|22|23|32|18|23|28|23|25|18|21|29|25|28|28|20|18|23|24|25|33|24|30|18|21|18|24|14|24|29|20|20|17|18|12|10|19|22|26|20|29|17|14|10|23|18|21|11|19|18|23|11|16|13|14|18|13|16|18|14|19|16|14|12|17|14|19|12|9|23|19|13|22|12|17|17|9|12|7|12|13|10|15|10|12|16|12|14|12|9|13|6|11|13|8|6|10|14|11|14|7|12|10|15|11|11|9|18|7|7|14|9|8|14|12|11|11|9|7|10|8|12|9|10|9|14|7|6|11|12|14|7|7|2|11|10|7|11|12|8|11|11|12|13|7|9|5|3|7|8|12|7|4|8|6|9|9|10|7|5|5|7|8|7|6|5|3|9|7|7|5|7|4|7|6|6|4|3|3|4|4|2|2|0|6|4|4|3|2|2|6|6|2|4|5|2|2|2|3|7|6|8|4|2|4|4|2|3|3|2|6|4|1|1|2|6|6|4|3|3|6|5|5|1|2|1|4|3|3|3|3|1|2|6|2|2|4|3|1|2|4|1|3|1|4|2|3|0|3|2|0|1|1|2|1|3|1|3|1|1|1|1|1|2|0|1|0|3|1|2|0|2|0|0|1|2|0|0|2|0|1|0|1|0|1|0|1|1|2|1|0|0|1|1|1|0|0|1|0|1|0|0|0|0|1|0|0|0|0|1|0|0|0|2|1|0|1|0|1|0|1|0|1|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|2|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">0.14808021485806</MDI>
+      <MDI key="STATISTICS_MEAN">0.066375374840907</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.01995856128633</MDI>
+      <MDI key="STATISTICS_STDDEV">0.018543832195134</MDI>
+      <MDI key="wavelength">540.840027</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>Resize (Band 4:M3G20090205T074030_V01_RFL.IMG) (580.760010)</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0.01812818439677358</HistMin>
+        <HistMax>0.1641456579975784</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|1|0|0|0|0|1|0|0|1|1|2|0|0|0|2|0|1|0|1|1|0|0|1|2|0|1|0|0|1|1|2|2|1|1|6|1|0|0|4|1|1|0|1|1|0|3|3|4|2|1|3|5|3|7|3|5|5|2|5|4|4|5|6|4|2|6|6|2|7|10|7|3|4|9|10|9|5|9|8|7|10|13|10|6|7|19|9|12|18|11|8|10|15|12|16|24|20|19|15|20|22|15|26|28|22|20|11|16|20|24|26|28|24|25|25|19|21|30|34|29|31|37|28|23|23|32|35|33|32|27|24|22|40|38|32|31|31|22|33|34|27|28|32|38|43|49|38|35|43|29|34|46|33|40|40|40|26|26|28|30|37|35|41|35|38|36|32|35|26|39|37|23|31|33|35|29|30|33|30|29|31|32|34|32|35|26|30|37|28|35|39|34|37|21|30|36|42|35|30|38|33|33|32|50|33|39|52|38|51|46|43|51|43|49|37|43|44|47|35|38|36|48|52|42|59|42|43|62|52|47|57|65|44|49|46|46|54|55|61|48|55|50|55|51|44|54|42|66|60|49|54|57|44|48|60|38|60|53|54|52|57|56|63|52|49|58|62|64|40|48|63|59|52|48|56|50|68|55|57|57|57|45|57|37|41|60|67|63|59|51|42|51|59|73|60|62|66|69|61|64|63|48|58|66|65|64|55|59|63|60|76|60|56|67|64|66|67|64|72|64|55|56|62|76|64|55|63|71|74|64|79|75|84|69|77|72|62|61|79|78|74|61|63|73|72|70|87|64|92|74|76|86|74|70|89|81|83|83|68|62|76|73|71|81|76|71|81|80|80|74|77|81|86|65|77|108|92|79|77|78|77|90|77|89|82|93|96|86|74|82|90|81|97|93|85|77|89|86|83|82|75|77|74|88|68|65|82|80|87|84|67|72|94|88|77|75|79|73|85|112|87|81|69|77|79|79|71|76|79|72|69|62|54|59|68|86|84|57|79|79|82|73|69|62|70|69|68|59|66|66|62|55|72|60|68|55|61|59|70|58|59|54|61|46|62|58|70|64|51|51|60|52|47|58|42|57|39|53|47|65|49|44|56|48|73|42|53|40|45|49|54|45|48|48|43|42|47|52|35|41|37|49|41|35|41|44|37|40|29|25|46|33|44|27|40|40|30|28|36|41|32|45|33|36|34|39|36|44|50|37|25|32|35|38|33|45|43|21|33|36|24|37|37|30|39|24|28|32|30|35|21|20|27|32|25|29|28|20|19|22|19|28|25|30|28|24|21|19|29|25|22|18|30|22|24|30|24|21|22|19|31|25|27|19|17|13|25|18|24|14|22|29|25|23|17|13|23|20|20|10|14|16|5|12|17|21|16|13|17|22|20|22|8|16|15|10|20|14|13|16|17|19|20|14|12|14|16|14|13|18|22|6|10|15|18|15|11|11|14|10|11|15|7|14|8|16|17|9|10|11|8|14|4|11|14|11|10|10|8|11|10|7|10|11|12|15|11|12|12|16|11|8|10|11|6|15|6|7|7|8|10|9|14|5|10|13|9|8|9|11|6|11|15|13|7|13|13|13|2|10|10|13|6|9|8|13|10|7|4|5|5|9|6|4|9|1|7|5|8|9|8|5|6|9|5|5|5|5|3|7|5|1|5|2|1|2|7|3|4|2|3|4|6|5|2|3|2|4|2|5|3|6|9|2|3|7|5|3|1|2|6|5|5|6|1|5|3|6|3|5|4|2|3|4|0|5|4|3|4|2|4|2|3|0|5|2|6|2|1|4|0|2|1|2|2|2|3|1|0|2|3|2|1|2|1|1|0|4|1|2|0|0|0|2|2|0|1|1|0|1|1|0|0|1|1|1|1|3|2|0|1|0|1|0|0|1|1|0|0|1|1|1|0|1|0|1|0|1|0|0|0|1|0|0|0|3|1|1|1|1|0|1|1|0|0|0|0|0|1|1|0|0|0|0|0|0|2|0|0|0|0|0|0|1|1|0|0|0|2|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">0.16407272219658</MDI>
+      <MDI key="STATISTICS_MEAN">0.072145890554318</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.018201120197773</MDI>
+      <MDI key="STATISTICS_STDDEV">0.02118945057877</MDI>
+      <MDI key="wavelength">580.760010</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>Resize (Band 5:M3G20090205T074030_V01_RFL.IMG) (620.690002)</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0.01911515154037625</HistMin>
+        <HistMax>0.1738251450648531</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|1|0|0|0|0|0|0|0|0|1|1|0|0|1|0|1|0|1|0|0|0|0|1|0|1|0|1|2|0|0|0|0|1|0|1|1|1|3|2|1|2|0|3|1|2|3|2|1|2|3|0|2|2|0|1|0|3|4|3|3|1|7|3|2|2|9|4|4|4|2|7|8|4|10|4|11|5|8|10|5|2|15|10|8|8|5|10|12|15|7|17|10|9|16|14|14|22|10|14|18|20|11|24|17|15|11|18|18|16|15|25|30|27|12|19|21|27|19|30|20|20|18|32|27|28|20|17|29|35|27|36|28|35|33|32|31|37|32|28|27|24|28|33|31|27|39|27|31|45|42|31|36|40|36|37|47|38|39|24|29|41|30|26|32|42|36|32|37|35|33|32|41|34|40|27|32|46|38|27|28|30|34|43|40|37|44|40|31|28|24|32|35|32|40|32|38|35|34|38|30|51|37|52|42|49|27|31|38|42|48|51|47|43|48|36|54|47|46|50|43|53|36|64|35|44|50|45|59|51|43|56|54|53|47|58|53|58|63|56|59|55|63|57|56|62|51|51|50|39|56|58|54|64|55|45|52|46|56|56|64|54|59|58|63|55|74|55|42|61|66|61|57|52|66|72|42|45|49|53|60|55|43|62|64|66|45|49|47|63|58|62|58|63|56|61|54|67|64|71|60|73|69|63|62|61|56|65|64|62|71|73|54|71|70|69|66|67|65|57|59|57|63|77|62|73|68|95|73|62|82|81|87|78|77|55|75|68|69|80|84|87|67|76|45|73|84|81|94|93|72|79|78|91|77|74|56|78|71|73|74|73|73|91|84|90|95|65|67|68|85|95|90|86|68|93|106|83|78|66|97|65|101|74|101|88|81|67|100|72|88|88|100|86|70|82|84|94|67|76|78|74|98|73|72|88|79|83|98|89|82|88|81|69|81|79|110|79|89|89|75|77|69|70|89|66|77|69|74|58|80|71|61|77|80|69|74|75|86|72|75|59|71|80|58|73|65|64|56|62|63|63|60|54|57|66|57|62|63|57|68|66|52|56|56|59|65|47|56|53|52|49|44|65|55|52|41|40|33|52|50|66|65|47|50|56|43|55|54|43|42|51|28|47|47|52|31|41|42|47|44|33|39|39|35|41|31|40|43|44|29|37|41|43|41|39|37|26|43|22|44|32|54|42|31|39|32|27|32|39|38|39|45|33|40|42|29|29|34|36|36|33|29|28|32|23|20|33|23|32|21|35|23|30|23|31|26|21|26|25|18|25|24|19|27|21|29|24|19|19|29|31|25|21|22|19|30|22|25|20|19|22|23|22|24|19|19|19|21|22|21|16|16|17|9|17|17|22|16|21|21|10|21|18|23|21|16|18|12|21|11|13|15|19|14|13|6|16|13|15|17|10|16|16|19|9|8|13|11|17|12|17|20|12|13|14|11|19|7|10|16|5|11|11|13|10|11|9|10|11|17|12|10|8|11|16|4|19|11|16|8|11|10|8|11|11|14|11|11|7|11|9|10|12|12|17|13|10|5|13|13|9|7|9|9|8|9|11|7|10|9|11|14|6|10|10|6|8|6|10|8|7|4|8|3|5|9|9|3|9|8|3|6|6|7|6|6|2|10|3|3|3|2|9|5|1|4|5|3|8|2|0|3|2|4|4|5|0|3|5|2|6|3|3|5|8|3|4|1|4|4|3|2|4|6|2|2|4|5|1|3|4|7|6|3|2|5|2|4|3|5|4|5|3|4|3|2|4|5|0|2|2|5|2|3|1|1|1|2|1|1|2|0|1|1|0|3|0|2|0|1|1|5|0|2|2|3|0|0|0|1|3|0|1|0|2|2|1|0|2|1|0|0|0|0|0|0|1|0|1|1|0|1|1|1|1|0|0|0|0|0|0|1|0|2|0|1|0|2|2|1|0|0|0|1|1|0|0|1|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|1|1|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">0.17374786734581</MDI>
+      <MDI key="STATISTICS_MEAN">0.076116764682097</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.019192429259419</MDI>
+      <MDI key="STATISTICS_STDDEV">0.021885536009649</MDI>
+      <MDI key="wavelength">620.690002</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>Resize (Band 6:M3G20090205T074030_V01_RFL.IMG) (660.609985)</Description>
+    <Metadata>
+      <MDI key="wavelength">660.609985</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>Resize (Band 7:M3G20090205T074030_V01_RFL.IMG) (700.539978)</Description>
+    <Metadata>
+      <MDI key="wavelength">700.539978</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>Resize (Band 8:M3G20090205T074030_V01_RFL.IMG) (730.479980)</Description>
+    <Metadata>
+      <MDI key="wavelength">730.479980</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>Resize (Band 9:M3G20090205T074030_V01_RFL.IMG) (750.440002)</Description>
+    <Metadata>
+      <MDI key="wavelength">750.440002</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>Resize (Band 10:M3G20090205T074030_V01_RFL.IMG) (770.400024)</Description>
+    <Metadata>
+      <MDI key="wavelength">770.400024</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>Resize (Band 11:M3G20090205T074030_V01_RFL.IMG) (790.369995)</Description>
+    <Metadata>
+      <MDI key="wavelength">790.369995</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>Resize (Band 12:M3G20090205T074030_V01_RFL.IMG) (810.330017)</Description>
+    <Metadata>
+      <MDI key="wavelength">810.330017</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>Resize (Band 13:M3G20090205T074030_V01_RFL.IMG) (830.289978)</Description>
+    <Metadata>
+      <MDI key="wavelength">830.289978</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Description>Resize (Band 14:M3G20090205T074030_V01_RFL.IMG) (850.250000)</Description>
+    <Metadata>
+      <MDI key="wavelength">850.250000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <Description>Resize (Band 15:M3G20090205T074030_V01_RFL.IMG) (870.210022)</Description>
+    <Metadata>
+      <MDI key="wavelength">870.210022</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <Description>Resize (Band 16:M3G20090205T074030_V01_RFL.IMG) (890.169983)</Description>
+    <Metadata>
+      <MDI key="wavelength">890.169983</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <Description>Resize (Band 17:M3G20090205T074030_V01_RFL.IMG) (910.140015)</Description>
+    <Metadata>
+      <MDI key="wavelength">910.140015</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <Description>Resize (Band 18:M3G20090205T074030_V01_RFL.IMG) (930.099976)</Description>
+    <Metadata>
+      <MDI key="wavelength">930.099976</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <Description>Resize (Band 19:M3G20090205T074030_V01_RFL.IMG) (950.059998)</Description>
+    <Metadata>
+      <MDI key="wavelength">950.059998</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <Description>Resize (Band 20:M3G20090205T074030_V01_RFL.IMG) (970.020020)</Description>
+    <Metadata>
+      <MDI key="wavelength">970.020020</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <Description>Resize (Band 21:M3G20090205T074030_V01_RFL.IMG) (989.979980)</Description>
+    <Metadata>
+      <MDI key="wavelength">989.979980</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <Description>Resize (Band 22:M3G20090205T074030_V01_RFL.IMG) (1009.950012)</Description>
+    <Metadata>
+      <MDI key="wavelength">1009.950012</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <Description>Resize (Band 23:M3G20090205T074030_V01_RFL.IMG) (1029.910034)</Description>
+    <Metadata>
+      <MDI key="wavelength">1029.910034</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <Description>Resize (Band 24:M3G20090205T074030_V01_RFL.IMG) (1049.869995)</Description>
+    <Metadata>
+      <MDI key="wavelength">1049.869995</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <Description>Resize (Band 25:M3G20090205T074030_V01_RFL.IMG) (1069.829956)</Description>
+    <Metadata>
+      <MDI key="wavelength">1069.829956</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <Description>Resize (Band 26:M3G20090205T074030_V01_RFL.IMG) (1089.790039)</Description>
+    <Metadata>
+      <MDI key="wavelength">1089.790039</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <Description>Resize (Band 27:M3G20090205T074030_V01_RFL.IMG) (1109.760010)</Description>
+    <Metadata>
+      <MDI key="wavelength">1109.760010</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <Description>Resize (Band 28:M3G20090205T074030_V01_RFL.IMG) (1129.719971)</Description>
+    <Metadata>
+      <MDI key="wavelength">1129.719971</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="27">
+    <Description>Resize (Band 29:M3G20090205T074030_V01_RFL.IMG) (1149.680054)</Description>
+    <Metadata>
+      <MDI key="wavelength">1149.680054</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="28">
+    <Description>Resize (Band 30:M3G20090205T074030_V01_RFL.IMG) (1169.640015)</Description>
+    <Metadata>
+      <MDI key="wavelength">1169.640015</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="29">
+    <Description>Resize (Band 31:M3G20090205T074030_V01_RFL.IMG) (1189.599976)</Description>
+    <Metadata>
+      <MDI key="wavelength">1189.599976</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="30">
+    <Description>Resize (Band 32:M3G20090205T074030_V01_RFL.IMG) (1209.569946)</Description>
+    <Metadata>
+      <MDI key="wavelength">1209.569946</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="31">
+    <Description>Resize (Band 33:M3G20090205T074030_V01_RFL.IMG) (1229.530029)</Description>
+    <Metadata>
+      <MDI key="wavelength">1229.530029</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="32">
+    <Description>Resize (Band 34:M3G20090205T074030_V01_RFL.IMG) (1249.489990)</Description>
+    <Metadata>
+      <MDI key="wavelength">1249.489990</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="33">
+    <Description>Resize (Band 35:M3G20090205T074030_V01_RFL.IMG) (1269.449951)</Description>
+    <Metadata>
+      <MDI key="wavelength">1269.449951</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="34">
+    <Description>Resize (Band 36:M3G20090205T074030_V01_RFL.IMG) (1289.410034)</Description>
+    <Metadata>
+      <MDI key="wavelength">1289.410034</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="35">
+    <Description>Resize (Band 37:M3G20090205T074030_V01_RFL.IMG) (1309.380005)</Description>
+    <Metadata>
+      <MDI key="wavelength">1309.380005</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="36">
+    <Description>Resize (Band 38:M3G20090205T074030_V01_RFL.IMG) (1329.339966)</Description>
+    <Metadata>
+      <MDI key="wavelength">1329.339966</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="37">
+    <Description>Resize (Band 39:M3G20090205T074030_V01_RFL.IMG) (1349.300049)</Description>
+    <Metadata>
+      <MDI key="wavelength">1349.300049</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="38">
+    <Description>Resize (Band 40:M3G20090205T074030_V01_RFL.IMG) (1369.260010)</Description>
+    <Metadata>
+      <MDI key="wavelength">1369.260010</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="39">
+    <Description>Resize (Band 41:M3G20090205T074030_V01_RFL.IMG) (1389.219971)</Description>
+    <Metadata>
+      <MDI key="wavelength">1389.219971</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="40">
+    <Description>Resize (Band 42:M3G20090205T074030_V01_RFL.IMG) (1409.189941)</Description>
+    <Metadata>
+      <MDI key="wavelength">1409.189941</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="41">
+    <Description>Resize (Band 43:M3G20090205T074030_V01_RFL.IMG) (1429.150024)</Description>
+    <Metadata>
+      <MDI key="wavelength">1429.150024</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="42">
+    <Description>Resize (Band 44:M3G20090205T074030_V01_RFL.IMG) (1449.109985)</Description>
+    <Metadata>
+      <MDI key="wavelength">1449.109985</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="43">
+    <Description>Resize (Band 45:M3G20090205T074030_V01_RFL.IMG) (1469.069946)</Description>
+    <Metadata>
+      <MDI key="wavelength">1469.069946</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="44">
+    <Description>Resize (Band 46:M3G20090205T074030_V01_RFL.IMG) (1489.030029)</Description>
+    <Metadata>
+      <MDI key="wavelength">1489.030029</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="45">
+    <Description>Resize (Band 47:M3G20090205T074030_V01_RFL.IMG) (1508.989990)</Description>
+    <Metadata>
+      <MDI key="wavelength">1508.989990</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="46">
+    <Description>Resize (Band 48:M3G20090205T074030_V01_RFL.IMG) (1528.959961)</Description>
+    <Metadata>
+      <MDI key="wavelength">1528.959961</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="47">
+    <Description>Resize (Band 49:M3G20090205T074030_V01_RFL.IMG) (1548.920044)</Description>
+    <Metadata>
+      <MDI key="wavelength">1548.920044</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="48">
+    <Description>Resize (Band 50:M3G20090205T074030_V01_RFL.IMG) (1578.859985)</Description>
+    <Metadata>
+      <MDI key="wavelength">1578.859985</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="49">
+    <Description>Resize (Band 51:M3G20090205T074030_V01_RFL.IMG) (1618.790039)</Description>
+    <Metadata>
+      <MDI key="wavelength">1618.790039</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="50">
+    <Description>Resize (Band 52:M3G20090205T074030_V01_RFL.IMG) (1658.709961)</Description>
+    <Metadata>
+      <MDI key="wavelength">1658.709961</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="51">
+    <Description>Resize (Band 53:M3G20090205T074030_V01_RFL.IMG) (1698.630005)</Description>
+    <Metadata>
+      <MDI key="wavelength">1698.630005</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="52">
+    <Description>Resize (Band 54:M3G20090205T074030_V01_RFL.IMG) (1738.560059)</Description>
+    <Metadata>
+      <MDI key="wavelength">1738.560059</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="53">
+    <Description>Resize (Band 55:M3G20090205T074030_V01_RFL.IMG) (1778.479980)</Description>
+    <Metadata>
+      <MDI key="wavelength">1778.479980</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="54">
+    <Description>Resize (Band 56:M3G20090205T074030_V01_RFL.IMG) (1818.400024)</Description>
+    <Metadata>
+      <MDI key="wavelength">1818.400024</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="55">
+    <Description>Resize (Band 57:M3G20090205T074030_V01_RFL.IMG) (1858.329956)</Description>
+    <Metadata>
+      <MDI key="wavelength">1858.329956</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="56">
+    <Description>Resize (Band 58:M3G20090205T074030_V01_RFL.IMG) (1898.250000)</Description>
+    <Metadata>
+      <MDI key="wavelength">1898.250000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="57">
+    <Description>Resize (Band 59:M3G20090205T074030_V01_RFL.IMG) (1938.180054)</Description>
+    <Metadata>
+      <MDI key="wavelength">1938.180054</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="58">
+    <Description>Resize (Band 60:M3G20090205T074030_V01_RFL.IMG) (1978.099976)</Description>
+    <Metadata>
+      <MDI key="wavelength">1978.099976</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="59">
+    <Description>Resize (Band 61:M3G20090205T074030_V01_RFL.IMG) (2018.020020)</Description>
+    <Metadata>
+      <MDI key="wavelength">2018.020020</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="60">
+    <Description>Resize (Band 62:M3G20090205T074030_V01_RFL.IMG) (2057.949951)</Description>
+    <Metadata>
+      <MDI key="wavelength">2057.949951</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="61">
+    <Description>Resize (Band 63:M3G20090205T074030_V01_RFL.IMG) (2097.870117)</Description>
+    <Metadata>
+      <MDI key="wavelength">2097.870117</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="62">
+    <Description>Resize (Band 64:M3G20090205T074030_V01_RFL.IMG) (2137.800049)</Description>
+    <Metadata>
+      <MDI key="wavelength">2137.800049</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="63">
+    <Description>Resize (Band 65:M3G20090205T074030_V01_RFL.IMG) (2177.719971)</Description>
+    <Metadata>
+      <MDI key="wavelength">2177.719971</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="64">
+    <Description>Resize (Band 66:M3G20090205T074030_V01_RFL.IMG) (2217.639893)</Description>
+    <Metadata>
+      <MDI key="wavelength">2217.639893</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="65">
+    <Description>Resize (Band 67:M3G20090205T074030_V01_RFL.IMG) (2257.570068)</Description>
+    <Metadata>
+      <MDI key="wavelength">2257.570068</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="66">
+    <Description>Resize (Band 68:M3G20090205T074030_V01_RFL.IMG) (2297.489990)</Description>
+    <Metadata>
+      <MDI key="wavelength">2297.489990</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="67">
+    <Description>Resize (Band 69:M3G20090205T074030_V01_RFL.IMG) (2337.419922)</Description>
+    <Metadata>
+      <MDI key="wavelength">2337.419922</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="68">
+    <Description>Resize (Band 70:M3G20090205T074030_V01_RFL.IMG) (2377.340088)</Description>
+    <Metadata>
+      <MDI key="wavelength">2377.340088</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="69">
+    <Description>Resize (Band 71:M3G20090205T074030_V01_RFL.IMG) (2417.260010)</Description>
+    <Metadata>
+      <MDI key="wavelength">2417.260010</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="70">
+    <Description>Resize (Band 72:M3G20090205T074030_V01_RFL.IMG) (2457.189941)</Description>
+    <Metadata>
+      <MDI key="wavelength">2457.189941</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="71">
+    <Description>Resize (Band 73:M3G20090205T074030_V01_RFL.IMG) (2497.110107)</Description>
+    <Metadata>
+      <MDI key="wavelength">2497.110107</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="72">
+    <Description>Resize (Band 74:M3G20090205T074030_V01_RFL.IMG) (2537.030029)</Description>
+    <Metadata>
+      <MDI key="wavelength">2537.030029</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="73">
+    <Description>Resize (Band 75:M3G20090205T074030_V01_RFL.IMG) (2576.959961)</Description>
+    <Metadata>
+      <MDI key="wavelength">2576.959961</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="74">
+    <Description>Resize (Band 76:M3G20090205T074030_V01_RFL.IMG) (2616.879883)</Description>
+    <Metadata>
+      <MDI key="wavelength">2616.879883</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="75">
+    <Description>Resize (Band 77:M3G20090205T074030_V01_RFL.IMG) (2656.810059)</Description>
+    <Metadata>
+      <MDI key="wavelength">2656.810059</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="76">
+    <Description>Resize (Band 78:M3G20090205T074030_V01_RFL.IMG) (2696.729980)</Description>
+    <Metadata>
+      <MDI key="wavelength">2696.729980</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="77">
+    <Description>Resize (Band 79:M3G20090205T074030_V01_RFL.IMG) (2736.649902)</Description>
+    <Metadata>
+      <MDI key="wavelength">2736.649902</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="78">
+    <Description>Resize (Band 80:M3G20090205T074030_V01_RFL.IMG) (2776.580078)</Description>
+    <Metadata>
+      <MDI key="wavelength">2776.580078</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="79">
+    <Description>Resize (Band 81:M3G20090205T074030_V01_RFL.IMG) (2816.500000)</Description>
+    <Metadata>
+      <MDI key="wavelength">2816.500000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="80">
+    <Description>Resize (Band 82:M3G20090205T074030_V01_RFL.IMG) (2856.429932)</Description>
+    <Metadata>
+      <MDI key="wavelength">2856.429932</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="81">
+    <Description>Resize (Band 83:M3G20090205T074030_V01_RFL.IMG) (2896.350098)</Description>
+    <Metadata>
+      <MDI key="wavelength">2896.350098</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="82">
+    <Description>Resize (Band 84:M3G20090205T074030_V01_RFL.IMG) (2936.270020)</Description>
+    <Metadata>
+      <MDI key="wavelength">2936.270020</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="83">
+    <Description>Resize (Band 85:M3G20090205T074030_V01_RFL.IMG) (2976.199951)</Description>
+    <Metadata>
+      <MDI key="wavelength">2976.199951</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
